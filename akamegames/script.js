@@ -21,6 +21,6 @@ setInterval(() => {
     const rightJump = dinoBound.left + 20 <= kaktusBound.right
     const topJump = dinoBound.bottom >= kaktusBound.top
     if ( leftJump && topJump && rightJump ) {
-        document.body.innerHTML = 'Nub hahahahah!!!!! bottttt HUAHAHAHAHHAHAH'
+        document.body.innerHTML = '  Nub hahahahah!!!!! bottttt HUAHAHAHAHHAHAH'
     }
 }, 100)
