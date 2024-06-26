@@ -10,8 +10,7 @@ body {
     height: 90vh;
     font-family: sans-serif;
     background-image: url('kiss.gif');
-    background-size: 620px;
-    background-repeat: no-repeat;
+    background-size: cover;
     background-attachment: fixed;
 }
 main {
